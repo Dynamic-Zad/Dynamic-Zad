@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dynamic-Zad
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Object Orianted Programmig
+- 💞️ I’m looking to collaborate on Nothig really haha
